@@ -79,7 +79,7 @@ git clone https://github.com/maciekstrach01/ProxyCurl_Data_Scraper
 
 3. Running the Program:
 
-    Remember to enter your own API key from the ProxyCurl profile in the performance_test.py file in the line API_KEY = ''  # API key defined in class individual for each profile in ProxyCurl
+    Remember to enter your own API key from the ProxyCurl profile in the performance_test.py file in the line API_KEY = ''  # API key defined in class individual for each profile in ProxyCurl.
     Without this the program will not retrieve any data!
     Execute the performance_test.exe file.
     Input the URLs of LinkedIn profiles you wish to scrape.
